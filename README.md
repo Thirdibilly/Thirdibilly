@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thirdibilly
+- 👋 Hi, I’m @Thirdibill
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Python, Sql, Java and C++
 - 💞️ I’m looking to collaborate on ...
