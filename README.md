@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thirdibill
+- 👋 Hi, I’m Bill (I Perfer to be called)
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Python, Sql, Java and C++
 - 💞️ I’m looking to collaborate on ...
